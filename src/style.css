@@ -3,4 +3,8 @@ body {
 }
 .weather-app {
   background-color: white;
+  max-width: 600px;
+  margin: 60px auto;
+  padding 25px;
+  
 }
