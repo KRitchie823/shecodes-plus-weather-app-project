@@ -50,6 +50,10 @@ header {
   font-weight: 400;
   line-height: 1.5;
 }
+.current-details strong {
+  color: rgb(239, 91, 91);
+  font-weight: 400;
+}
 footer {
   border-top: 1px solid rgb(185, 215, 243);
   padding: 30px 0 0 0;
