@@ -54,6 +54,20 @@ header {
   color: rgb(239, 91, 91);
   font-weight: 400;
 }
+.current-temp-icon {
+  position: relative;
+  font-size: 40px;
+  top: -12px;
+}
+.current-temp-value {
+  font-size: 80px;
+}
+.current-temp-unit {
+  position: relative;
+  font-size: 28px;
+  top: -35px;
+  font-weight: 300;
+}
 footer {
   border-top: 1px solid rgb(185, 215, 243);
   padding: 30px 0 0 0;
