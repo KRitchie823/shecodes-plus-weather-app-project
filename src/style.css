@@ -35,6 +35,11 @@ header {
   margin-left: 5px;
   border: none;
 }
+.current-weather-data {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+}
 footer {
   border-top: 1px solid rgb(185, 215, 243);
   padding: 30px 0 0 0;
