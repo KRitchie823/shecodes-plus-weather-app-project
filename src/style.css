@@ -10,6 +10,10 @@ body {
   border-radius: 12px;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
 }
+header {
+  border-bottom: 1px solid rgb(185, 215, 243);
+  padding: 0 0 30px 0;
+}
 .search-input {
   background-color: rgb(185, 215, 243);
   color: rgb(38, 31, 31, 0.4);
@@ -27,4 +31,8 @@ body {
   font-size: 16px;
   margin-left: 5px;
   border: none;
+}
+footer {
+  border-top: 1px solid rgb(185, 215, 243);
+  padding: 30px 0 0 0;
 }
