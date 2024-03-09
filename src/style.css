@@ -2,6 +2,9 @@ body {
   background-color: rgb(185, 215, 243);
   font-family: "Noto Sans", sans-serif;
 }
+a {
+  color: rgb(185, 215, 243);
+}
 .weather-app {
   background-color: white;
   max-width: 600px;
