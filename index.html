@@ -10,6 +10,7 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="src/style.css" />
+    <script src="https://unpkg.com/axios@1.6.7/dist/axios.min.js"></script>
     <title>My SheCodes Plus Weather App Project</title>
   </head>
   <body>
@@ -34,7 +35,7 @@
       <main>
         <div class="current-weather-data">
           <div>
-            <h1 class="current-city" id="current-city">Indianapolis</h1>
+            <h1 class="current-city" id="current-city"></h1>
             <p class="current-details">
               <span>Wednesday 17:46</span>, partly cloudy
               <br />
@@ -43,7 +44,7 @@
           </div>
           <div class="current-temp">
             <span class="current-temp-icon">⛅</span>
-            <span class="current-temp-value">55</span>
+            <span class="current-temp-value" id="temperature">55</span>
             <span class="current-temp-unit">°F</span>
           </div>
         </div>
