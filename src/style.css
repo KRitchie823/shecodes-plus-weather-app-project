@@ -81,6 +81,12 @@ header {
   font-size: 16px;
   opacity: 0.5;
 }
+.weather-forecast-icon {
+  width: 88px;
+  height: 88px;
+  display: block;
+  margin: 0 auto;
+}
 .weather-forecast-temps {
   font-size: 13px;
 }
