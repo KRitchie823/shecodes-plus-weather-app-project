@@ -67,12 +67,12 @@ header {
 }
 .current-temp-unit {
   font-size: 28px;
-  margin-top: 16px;
+  margin-top: 20px;
   font-weight: 300;
 }
 .weather-forecast {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   margin-top: 20px;
   text-align: center;
   color: #000;
@@ -89,6 +89,10 @@ header {
 }
 .weather-forecast-temps {
   font-size: 13px;
+  text-align: center;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
 }
 .weather-forecast-temp-lo {
   opacity: 0.5;
