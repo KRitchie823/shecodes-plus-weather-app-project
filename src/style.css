@@ -24,7 +24,7 @@ header {
   background-color: #335184;
   padding: 20px;
   border-radius: 5px;
-  width: 75%;
+  width: 80%;
   font-size: 16px;
   border: none;
 }
@@ -37,7 +37,7 @@ header {
   padding: 20px;
   border-radius: 5px;
   font-size: 16px;
-  margin-left: 5px;
+  margin-left: 20px;
   border: none;
 }
 .current-weather-data {
