@@ -1,9 +1,9 @@
 body {
-  font-family: "Noto Sans", sans-serif;
-}
-
-img {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/118/939/original/iStock-477110708_%281%29.jpg?1710373369");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   opacity: 0.3;
+  font-family: "Noto Sans", sans-serif;
 }
 a {
   color: rgb(185, 215, 243);
