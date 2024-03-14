@@ -20,9 +20,6 @@ header {
   border-bottom: 1px solid #335184;
   padding: 0 0 30px 0;
 }
-.search-form {
-  color: white;
-}
 .search-input {
   background-color: #335184;
   padding: 20px;
@@ -30,6 +27,9 @@ header {
   width: 75%;
   font-size: 16px;
   border: none;
+}
+::placeholder {
+  color: white;
 }
 .search-button {
   background-color: #335184;
