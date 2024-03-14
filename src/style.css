@@ -50,8 +50,8 @@ header {
   margin: 0;
 }
 .current-details {
-  color: rgb(160, 157, 157);
-  font-weight: 400;
+  color: rgb(148 140 140);
+  font-weight: 500;
   line-height: 1.5;
 }
 .current-details strong {
@@ -68,7 +68,7 @@ header {
 .current-temp-value {
   font-size: 88px;
   margin-left: 10px;
-  font-weight: bold;
+  font-weight: 600;
 }
 .current-temp-unit {
   font-size: 28px;
@@ -84,7 +84,7 @@ header {
 }
 .weather-forecast-date {
   font-size: 16px;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 .weather-forecast-icon {
   width: 88px;
